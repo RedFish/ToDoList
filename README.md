@@ -2,11 +2,11 @@
   
 To Do List i0S 9 application using Swift 2 (Xcode 7).  
 The app uses :
-	- Tab Bar Controller
-	- Permanent Storage
-	- UITableView
-	- UITableViewDelegate
-	- UITextFieldDelegate
+- Tab Bar Controller
+- Permanent Storage
+- UITableView
+- UITableViewDelegate
+- UITextFieldDelegate
 	
 ## Screenshots:
 
