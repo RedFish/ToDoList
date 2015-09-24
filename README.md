@@ -1,6 +1,6 @@
 # To Do List iOS Application  
   
-To Do List i0S 9 application using Swift 2 (Xcode 7).  
+To Do List iOS 9 application using Swift 2 (Xcode 7).  
 The app uses :
 - Tab Bar Controller
 - Permanent Storage
