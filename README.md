@@ -11,4 +11,3 @@ The app uses :
 ## Screenshots:
 
 ![ScreenShot1](https://raw.github.com/RedFish/ToDoList/master/Screenshots/Screenshot_1.png)
-![ScreenShot2](https://raw.github.com/RedFish/ToDoList/master/Screenshots/Screenshot_2.png)
